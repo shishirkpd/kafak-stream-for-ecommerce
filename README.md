@@ -36,8 +36,8 @@ You can follow [this guide](https://kafka.apache.org/quickstart) to install Kafk
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/your-repo/kafka-streams-ecommerce.git
-cd kafka-streams-ecommerce
+git clone https://github.com/shishirkpd/kafak-stream-for-ecommerce.git
+cd kafak-stream-for-ecommerce
 ```
 
 ### Step 2: Set Up Kafka Topics
